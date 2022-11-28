@@ -1,0 +1,56 @@
+html {
+	background-color: #f5ffd9;
+}
+
+form {
+	font-family: helvetica;
+	font-size: 18px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top:50px;
+		}
+
+h1 {
+	font-size:64px;
+	font-family:helvetica;
+	color: #5a7314;
+}
+
+legend {
+	font-weight: bold;
+	font-size: 20px;
+	color: #414a27;
+		}
+		
+p {
+	font-style: italic;
+	font-size: 14px;
+	}
+
+text {
+	font-size: 18px;
+	font-weight:bold;
+	font-style:italic;
+	color: #404040;
+	padding:20px;
+	}
+	
+label {
+	color: #404040;
+	}
+	
+img{
+	float:right;
+	width:100px;
+	height:125px;
+	margin-right:150px;
+	margin-top:10px;
+}
+
+button {
+	font-size:30px;
+	padding: 10px; 
+	border-color:#fffb00;
+	background: #9aaf8e;
+	color: #fffb00;
+}
